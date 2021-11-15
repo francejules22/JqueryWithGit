@@ -1,0 +1,3 @@
+
+Hello from France!
+<p id="data">This is a data from this file</p>
